@@ -1,9 +1,6 @@
 turntable-client
 ================
 
-Game Client for [turntable](https://github.com/guilt/turntable/).
+Game Client for [turntable](https://github.com/guilt/turntable/). In
+JavaScript and ActionScript 3.
 
-Usage
------
-
-We've provided an ActionScript sample on how to build a multiplayer game.
